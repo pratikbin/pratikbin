@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikbalar&show_icons=true)]
+[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikbalar&show_icons=true)](https://github.com/pratikbalar)
 <!--
 **pratikbalar/pratikbalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
