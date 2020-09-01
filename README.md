@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Pratik 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pratikbalar123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpratikbalar123&screen_name=pratikbalar123)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ptkblr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpptkblr&screen_name=ptkblr)
 
 ## I'm a TechEnthusiast:computer:, DevOps:repeat: and PartTime Gamer :video_game:!
 
@@ -13,7 +13,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Pratik Balar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/pratikbalar123)
+[<img align="left" alt="Pratik Balar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ptkblr)
 [<img align="left" alt="Pratik Balar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pratikbalar/)
 
 
