@@ -5,7 +5,7 @@
 
 ## I'm a TechEnthusiast:computer:, DevOps:repeat: and PartTime Gamer :video_game:!
 
-- 🔭 I’m currently learning [Helm](https://www.notion.so/Helm-ad08fea3a4a7479fb15f340ba0bb54be)!
+- 🔭 I’m currently learning Prometheus
 - 👯 I’m looking to collaborate with other tech tinkerers
 - 🥅 2020 Goals: Learn and Apply as much as possible, read X number of books
 - ⚡ Fun fact: Huge Content consumer, any Mid-to-High Tech-YouTuber is in my feed
