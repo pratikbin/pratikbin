@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning GitOps
 - 👯 I’m looking to collaborate with other contributors
 - 🥅 2020 Goals: Learn and Apply as much as possible.
-- ⚡ Fun fact: Huge Content consumer, any Mid-to-High Tech-YouTuber is in my feed
+- ⚡ Fun fact: Huge Youtube Tech Content consumer,
 
 ### Connect with me:
 
@@ -19,14 +19,34 @@
 
 <br />
 
+
 ### Languages and Tools:
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.notion.so/Git-GitHub-006d5842f1ed46339d8e5a1dd5ec9751)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.notion.so/Git-GitHub-006d5842f1ed46339d8e5a1dd5ec9751)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.notion.so/vim-and-tmux-guide-18cc828211b6471facff90320e8c9d7f)
-
-
+[<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/amazonaws.svg" />]()
+[<img align="left" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg" />]()
+[<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />]()
 <br />
+<br />
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/docker.svg" />]()
+[<img align="left" alt="k8s" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/kubernetes.svg" />]()
+[<img align="left" alt="Helm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/helm.svg" />]()
+[<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/jenkins.svg" />]()
+[<img align="left" alt="CircleCI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/circleci.svg" />]()
+<br />
+<br />
+[<img align="left" alt="CMake" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cmake.svg" />]
+[<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linux.svg" />]()
+[<img align="left" alt="ArchLinux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/archlinux.svg" />]()
+[<img align="left" alt="AlpineLinux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/alpinelinux.svg" />]()
+[<img align="left" alt="Debian" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/debian.svg" />]()
+<br />
+<br />
+[<img align="left" alt="Nginx" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/nginx.svg" />]()
+[<img align="left" alt="Confluence" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/confluence.svg" />]()
+[<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/jira.svg" />]()
+[<img align="left" alt="Notion" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/notion.svg" />]()
+	
+
 <br />
 <br />
 
