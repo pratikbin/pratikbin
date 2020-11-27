@@ -1,5 +1,5 @@
 
-### Hi there, I'm Pratik 👋
+### Hi there, I'm Pratik 👋 I just bought a new phone, a very expensive phone!!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ptkblr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpptkblr&screen_name=ptkblr)
 
