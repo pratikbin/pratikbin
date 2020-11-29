@@ -51,6 +51,11 @@
 <br />
 
 [![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikbalar&show_icons=true)](https://github.com/pratikbalar)
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbalar&theme=algolia)](https://github.com/SelfhostedPro)
 <!--
 **pratikbalar/pratikbalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
