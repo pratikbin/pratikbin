@@ -5,7 +5,7 @@
 
 ## I'm a TechEnthusiast:computer:, DevOps:repeat: and PartTime Gamer :video_game:!
 
-- 🔭 I’m currently learning GitOps
+- 🔭 I’m currently learning Wireguard
 - 👯 I’m looking to collaborate with other contributors
 - 🥅 2020 Goals: Learn and Apply as much as possible.
 - ⚡ Fun fact: Huge Youtube Tech Content consumer,
