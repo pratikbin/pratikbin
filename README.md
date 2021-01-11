@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Pratik 👋
-
+![Metrics](https://metrics.lecoq.io/pratikbalar?template=terminal&languages=1&followup=1&isocalendar=1&tweets=1&isocalendar.duration=full-year&tweets.limit=2&config.timezone=Asia%2FKolkata)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ptkblr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpptkblr&screen_name=ptkblr)
 
 ## I'm a TechEnthusiast:computer:, DevOps:repeat: and PartTime Gamer :video_game:!
