@@ -23,7 +23,7 @@ I am a Full time DevOps from India.
 
 - :telescope: Exploting Golang.
 
-- :seedling: Making Optimized CICDs.
+- :seedling: Creating Optimized, Efficient and Fast CICDs.
 
 - :zap: In my free time, I try to solve general problems & contribute to OSS.
 
