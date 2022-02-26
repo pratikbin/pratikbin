@@ -17,11 +17,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Full time DevOps from India.
+I am a Full time DevOps.
 
 - :muscle: Dailying Manjaro Arch linux.
 
-- :telescope: Exploting Golang.
+- :telescope: Exploring Golang and [Bazel](https://github.com/pratikbalar/zipper/tree/feat/bazel-build).
 
 - :seedling: Creating Optimized, Efficient and Fast CICDs & Dockerfile.
 
