@@ -19,7 +19,7 @@
 
 I am a Full time DevOps.
 
-- :telescope: Exploring Golang and [Bazel](https://github.com/pratikbalar/zipper/tree/feat/bazel-build).
+- :telescope: Exploring Golang and [Bazel](https://github.com/pratikbalar/zipper/tree/dev).
 
 - :seedling: Creating Optimized, Efficient and Fast CICDs & Dockerfile.
 
