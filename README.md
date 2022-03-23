@@ -36,6 +36,7 @@ Infra
 <img title="k3s" alt="k3s" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/k3s/icon/black/k3s-icon-black.svg" width="40" height="40"/>
 <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 <img title="Containerd" alt="Containerd" src="https://www.vectorlogo.zone/logos/containerdio/containerdio-icon.svg" width="40" height="40"/>
+<img title="Cloudflare" alt="Cloudflare" src="https://img.icons8.com/color/48/000000/cloudflare.png" width="50" height="60"/>
 
 CICDs/BuildTools
 
