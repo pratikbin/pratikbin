@@ -17,11 +17,13 @@
 
 ### :man_technologist: About Me :
 
-I am a Full time DevOps.
+I am a DevOps Optimizing Decentralize platform with Distributed tech.
 
-- :telescope: Exploring Golang and [Bazel](https://github.com/pratikbalar/zipper/tree/dev).
+> > FYI  decentralize != distributed 
 
-- :seedling: Creating Optimized, Efficient and Fast CICDs & Dockerfile.
+- :telescope: Exploring Golang and [Bazel](https://github.com/pratikbin/zipper/tree/feat/bazel-build).
+
+- :seedling: Creating Optimise, Efficient and Fast CICDs & Dockerfile.
 
 ### :hammer_and_wrench: I'm aware of :
 
