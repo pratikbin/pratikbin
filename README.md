@@ -54,7 +54,7 @@ CICDs/BuildTools
 <img title="Make" alt="Make" src="https://icon-icons.com/downloadimage.php?id=130408&root=2107/PNG/512/&file=file_type_makefile_icon_130408.png" width="40" height="40"/>
 <img title="Cmake" alt="Cmake" src="https://symbols.getvecta.com/stencil_77/1_cmake-icon.1db4b46889.png" width="40" height="40"/>
 
-Languages
+Languages/Scripting
 
 <img title="bash" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp;
 <img title="Golang" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
