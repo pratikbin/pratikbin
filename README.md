@@ -115,4 +115,4 @@ Hashi-stack
 
 ---
 
-**May the source be with you**
+> > *May the source be with you*
