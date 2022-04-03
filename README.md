@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-I am a DevOps Optimizing Decentralize platform with Distributed tech.
+I am a DevOps, Optimizing Decentralize platform with Distributed tech.
 
 > > FYI  decentralize != distributed 
 
