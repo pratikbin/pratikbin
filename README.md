@@ -15,17 +15,19 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
-I'm ChainOps(DevOps),
+I'm ChainOps ⋈ DevOps,
 
-> > FYI  decentralize != distributed 
+* :whale: Containerizing @cosmos
 
-- :telescope: Graping comsos
+* :chart_with_upwards_trend: Scaling @AssetMantle  / @AsGuardNetwork
 
-- :seedling: Creating Optimise & Efficient CICDs and Dockerfile.
+* :mirror: Founding titan @daftcreations
 
-### :hammer_and_wrench: I'm aware of :
+* :man_student: N I R M A i t e '20
+
+### :hammer_and_wrench::
 
 Infra
 
