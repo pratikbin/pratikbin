@@ -15,6 +15,7 @@
   </h1>
 </div>
 
+
 ### :man_technologist: About Me:
 
 I'm ChainOps ⋈ DevOps,
@@ -25,7 +26,7 @@ I'm ChainOps ⋈ DevOps,
 
 * :mirror: Founding titan @daftcreations
 
-* :man_student: N I R M A i t e '20
+* :man_student: N I R M A i t e '20 :man_student:
 
 ### :hammer_and_wrench::
 
