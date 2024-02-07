@@ -21,9 +21,7 @@ I'm ChainOps ⋈ DevOps,
 
 * :whale: Containerizing @cosmos
 
-* :chart_with_upwards_trend: Scaling @AssetMantle  / @AsGuardNetwork
-
-* :mirror: Founding titan @daftcreations
+* :mirror: Founding titan @NodeOps-app
 
 * :man_student: N I R M A i t e '20
 
