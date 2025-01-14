@@ -15,20 +15,17 @@
   </h1>
 </div>
 
-### :man_technologist: Me
-
-* :mirror: Founding titan @NodeOps-app
-
 ### :hammer_and_wrench:
 
 > Strongly passionate about Distributed Tech & web3. Early adopter, Containeriz-er, Automat-er, Do-er.
 - - -
+- BareMetalAlchemist
 - Cosmos > tendermint, MPC, Hermes, gorelayer, Validator, Sentry, HA Blockchain RPC/gRPC/REST
 - Golang, Python, Bash, TS, Node, Scala, Java
 - AWS, GCP, Hetzner, OVH, k3s, RKE/2, Docker (buildx and buildkit) with Multi architecture OCI container image
 - Observibiliy > Prometheus, Loki, Grafana, Mimir, VictoriaMetrics, Kibana, Promtail, Fluentbit, FileBeat, AuditBeat
 - Data > HA Postgres, MySql, Redis, Apache Pulsar, Minio, ElasicSearch, ClickHouse
-- Proxy > Nginx, Caddy, HAProxy, Traefik
+- Proxy > Caddy, Nginx, HAProxy, Traefik
 - CICD > Concourse-CI, FluxCD, GHActions, Gitlab, Circle CI, DroneCI, Jenkins,
 - Hashistack > Terraform, Vault, Nomad, Consul, Vagrant, HCL
 - Cloudflare, Route53, OIDC, OpenAPI, Ansible, SSH, mTLS,PKI, Molecule, Dockerize & s6-overlay, Linux, Nginx, Git, Podman/Buildah/Skopeo, Foreman, Wireguard, NetMaker, Tailscale, Headscale, Artifactory, Make & CMake, LDAP, zstd
